@@ -1,0 +1,18 @@
+{
+  "name": "GlowUp",
+  "short_name": "GlowUp",
+  "description": "Your personal wellness glow-up companion",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FDF0F4",
+  "theme_color": "#E8A0B4",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
